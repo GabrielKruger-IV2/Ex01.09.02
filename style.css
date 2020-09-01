@@ -1,0 +1,33 @@
+*{
+    margin: 0;
+    padding: 0;
+
+   
+}
+#body{
+display: flex;
+width: 100vw;
+height: 100vh;
+justify-content: center;
+align-items: center;
+background-color: grey;
+}
+#divTempo{
+
+}
+#btn{
+    margin-left: 5vw;
+}
+#questão{
+   
+    background-color: rgb(168, 168, 168);
+   border-radius: 20px;
+    padding: 30px;
+    text-align: center;
+ }
+ #texto{
+     
+ }
+ #select{
+     margin-top: 5vh;
+ }
